@@ -1,0 +1,36 @@
+
+.base-outline {
+  background: #3a3a3a;
+  border:           10px solid #2d2d2d;
+  margin:           10px auto;
+  width:            80%;
+  max-width:        800px;
+  padding:          1%;
+  font-size:        12px;
+  font-family:      'Noto Sans KR', sans-serif;
+}
+
+.profile-picture {
+  width: 200px;
+  height: auto;
+}
+
+.resume-link {
+  text-align: right;
+}
+
+.link {
+  text-decoration:  none;
+  font-weight:      700;
+  color:            white;
+}
+
+.link:hover {
+  text-decoration:  underline;
+  color:            #539ef4;
+}
+
+.link:hover:visited {
+  text-decoration:  underline;
+  color:            #9953f4;
+}
