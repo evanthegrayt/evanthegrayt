@@ -14,7 +14,7 @@
   <body>
     <div class="base-outline">
       <h1 class="main-heading">
-        I am currently Open To Work! See my 
+        I am currently Open To Work! See my
         <a
           href="https://www.linkedin.com/in/evanthegrayt"
           class="link"
@@ -23,6 +23,7 @@
         </a>
           for details.
       </h1>
+      You can also view my resume by clicking on the image below!
     </div>
     <a href="https://evanthegrayt.github.io/evanthegrayt/resume/">
       <img
