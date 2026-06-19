@@ -12,24 +12,11 @@
   </head>
 
   <body>
-    <div class="base-outline">
-      <h1 class="main-heading">
-        I am currently Open To Work! See my
-        <a
-          href="https://www.linkedin.com/in/evanthegrayt"
-          class="link"
-        >
-          LinkedIn
-        </a>
-          for details.
-      </h1>
-      You can also view my resume by clicking on the image below!
-    </div>
     <a href="https://evanthegrayt.github.io/evanthegrayt/resume/">
       <img
         src="https://raw.githubusercontent.com/evanthegrayt/evanthegrayt/master/images/background.jpeg"
         alt="Raging against the machine with the Office Space crew."
-        title="My resume"
+        title="Click to view my resume!"
       />
     </a>
   <body>
