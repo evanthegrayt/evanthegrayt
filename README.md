@@ -14,7 +14,7 @@
   <body>
     <a href="https://evanthegrayt.github.io/evanthegrayt/resume/">
       <img
-        src="https://raw.githubusercontent.com/evanthegrayt/evanthegrayt/master/images/background.jpeg"
+        src="https://raw.githubusercontent.com/evanthegrayt/evanthegrayt/master/images/background.jpg"
         alt="Raging against the machine with the Office Space crew."
         title="Click to view my resume!"
       />
